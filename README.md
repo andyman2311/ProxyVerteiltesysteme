@@ -1,7 +1,7 @@
 # ProxyVerteiltesysteme
 Um den Proxy-Server zu nutzen, müssen Sie zunächst eine npm-Installation durchführen. 
 
-Darüber hinaus müssen Sie eine users.json-Datei erstellen, in der Benutzername und Passwort für die Basic-Authentifizierung gespeichert sind. Ein Beispiel sieht wie folgt aus:
+Darüber hinaus müssen nutzer in der users.json-Datei angelegt werden.Diese sind für die Basic-Authentifizierung notwendig. Ein Beispiel sieht wie folgt aus:
 
 {
   "username1": "password",
