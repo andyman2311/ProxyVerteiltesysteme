@@ -15,3 +15,5 @@ Bitte beachten Sie, dass der Backend-Server eingeschaltet sein muss, da dessen R
 Der Proxy kann nur funktionieren, wenn der Backend-Server auf der gleichen localhost-Adresse läuft wie der Proxy-Server.
 
 Falls der Server außerhalb der localhost-Adresse laufen soll, muss die Variable "baseURL" angepasst werden und potenziell die port angabe.
+
+Desweiteren können die Tests via npm test durchgeführt werden um die funktionallitäten zu testen.
