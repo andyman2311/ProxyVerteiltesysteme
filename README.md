@@ -15,5 +15,3 @@ Bitte beachten Sie, dass der Backend-Server eingeschaltet sein muss, da dessen R
 Der Proxy kann nur funktionieren, wenn der Backend-Server auf der gleichen localhost-Adresse läuft wie der Proxy-Server.
 
 Falls der Server außerhalb der localhost-Adresse laufen soll, muss die Variable "baseURL" angepasst werden und potenziell die port angabe.
-
-Um den Proxy zu starten muss man mit dem Befehl node ProxyServer.js den Code starten. 
