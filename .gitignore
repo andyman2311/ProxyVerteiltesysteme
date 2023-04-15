@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # login files
-Proxy Server/users.json
+"Proxy Server"/users.json
